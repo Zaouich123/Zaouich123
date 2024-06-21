@@ -1,4 +1,4 @@
-## Hi everyone ![poti cho]([https://framasoft.org/nav/img/logo.png](https://github.com/images/mona-whisper.gif))
+## Hi everyone ! ![poti cho](https://github.com/images/mona-whisper.gif)
 
 <!--
 **Zaouich123/Zaouich123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
