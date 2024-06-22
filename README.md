@@ -2,7 +2,7 @@
     <h1 style="font-family: MS Sans Serif">Hi everyone !</h1> 
     <img src="https://github.com/images/mona-whisper.gif" width="64" height="64">
     <div class="last">
-        <h3>My latest project : https://github.com/Zaouich123/testrepo</h3>
+        <h3>My latest project : https://github.com/Zaouich123/github-latest-project</h3>
     </div>
 </div>
 
